@@ -357,7 +357,7 @@ public class ProdutoFrame extends javax.swing.JFrame {
 			}
 		});
         
-        fillTableProdutos();
+        //fillTableProdutos();
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
